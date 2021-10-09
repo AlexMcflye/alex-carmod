@@ -10,4 +10,4 @@ Spor Modu CTRL ile açılıp kapanır daha seri ve taktiksel araç kullanmanıza
 
 Drift Modu B ile açılıp kapanır ve Shift ile kullanmanılır 
 
-Herhangi bir hatanızda Discord : ! AlexMcflye#3343
+Discord : ! AlexMcflye#3343
