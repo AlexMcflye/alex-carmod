@@ -8,6 +8,6 @@ owned_vehicles'a aşağıdaki gözüktüğü gibi chip sütunu açmalısınız
 
 Spor Modu CTRL ile açılıp kapanır daha seri ve taktiksel araç kullanmanıza olanak sağlar
 
-Drift Modu B ile açılıp kapanır ve Shift ile kullanmanılır 
+Drift Modu B ile açılıp kapanır ve Shift ile kullanılır
 
 Discord : ! AlexMcflye#3343
