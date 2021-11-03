@@ -52,7 +52,7 @@ AddEventHandler('carmod:removeNos', function()
     local xPlayer = ESX.GetPlayerFromId(source)
     if xPlayer then
         --xPlayer.Functions.RemoveItem('dolu_nos', 1, xPlayer.Functions.GetItemByName("dolu_nos").slot)
-        xPlayer.removeInventoryItem('dolu_nos', 1)
+        xPlayer.removeInventoryItem('aracnos', 1)
     end
 end)
 
